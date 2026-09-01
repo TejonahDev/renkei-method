@@ -1,2 +1,2 @@
 # renkei-method
-IoT communication system for WFH (work-from-home) households
+IoT communication system for WFH (work-from-home) households.
